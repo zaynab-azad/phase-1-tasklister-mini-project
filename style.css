@@ -13,7 +13,16 @@ body {
 button {
   font-size: 7px;
 }
-
+li {
+  font-size: 20px;
+}
+li button {
+  width: 25px;
+  height: 20px;
+  font-size: 13px;
+  font-weight: bold;
+  margin-left: 10px;
+}
 #main-content {
   position: relative;
   display: flex;
